@@ -1,4 +1,4 @@
-# Data-Science-Projetcs
+# Data Science Projetcs
 Repo with all my collaboration on team projects performed back at the time while pursuing Data Science at CCT College Dublin
 
 

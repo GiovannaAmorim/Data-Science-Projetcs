@@ -27,4 +27,11 @@ Additionally, I presented a comparison table of the results for the analyzed com
 
 Another project worked with my colleagues. The goal is to predict flight delays and measure the accuracy of our models. 
 I built up the Machine Learning models such as Decision Tree, Random Forest, and Logistic Regression, using cross-validation and grid-search to optimize the hyperparameter settings for the binary issue we were working on. 
-In addition, I collaborated on data cleaning procedures to ensure accurate results.
+In addition, I collaborated on data-cleaning procedures to ensure accurate results.
+
+
+## [Project 4](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/main/Data_analysis_exercise_Our_World_in_Data_Junior_Data_Scientist_application.ipynb)
+### [Data analysis - Disease and death rates](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/main/Data_analysis_exercise_Our_World_in_Data_Junior_Data_Scientist_application.ipynb)
+
+This project I developed as a case of studies for the company "Our World in Data". It contains the overall methods while developing a data analyst and on top of that, aims to get the outcomes of "Calculation of the Age-standardized Rate" and " Calculation of the Crude Death Rates for COPD". The data was extracted from the 'United Nations website and narrowed down to death rates from the United States of America and Uganda in 2019.
+

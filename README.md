@@ -1,5 +1,4 @@
 # Data Science Projetcs
-
 ## [Project 1](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/Project-1---Data-Visualizatiom/Project%201%20-%20%20Data%20Visualization.ipynb)
 ### [Data Visualization](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/Project-1---Data-Visualizatiom/Project%201%20-%20%20Data%20Visualization.ipynb)
 

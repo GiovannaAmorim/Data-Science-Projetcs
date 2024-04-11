@@ -1,8 +1,4 @@
 # Data Science Projetcs
-Repo with all my collaboration on team projects performed back at the time while pursuing Data Science at CCT College Dublin
-
-
-
 
 ## [Project 1](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/Project-1---Data-Visualizatiom/Project%201%20-%20%20Data%20Visualization.ipynb)
 ### [Data Visualization](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/Project-1---Data-Visualizatiom/Project%201%20-%20%20Data%20Visualization.ipynb)

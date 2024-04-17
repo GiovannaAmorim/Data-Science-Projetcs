@@ -28,5 +28,5 @@ In addition, I collaborated on data-cleaning procedures to ensure accurate resul
 ## [Project 4](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/main/Data_analysis_exercise_Our_World_in_Data_Junior_Data_Scientist_application.ipynb)
 ### [Data analysis - Disease and death rates](https://github.com/GiovannaAmorim/Data-Science-Projetcs/blob/main/Data_analysis_exercise_Our_World_in_Data_Junior_Data_Scientist_application.ipynb)
 
-This project I developed as a case of studies for the company "Our World in Data". It contains the overall methods while developing a data analyst and on top of that, aims to get the outcomes of "Calculation of the Age-standardized Rate" and " Calculation of the Crude Death Rates for COPD". The data was extracted from the 'United Nations website and narrowed down to death rates from the United States of America and Uganda in 2019.
+This project I developed as a case of studies for the company "Our World in Data". It contains the overall methods while developing a data analysis and on top of that, aims to get the outcomes of "Calculation of the Age-standardized Rate" and " Calculation of the Crude Death Rates for COPD". The data was extracted from the 'United Nations website and narrowed down to death rates from the United States of America and Uganda in 2019.
 
